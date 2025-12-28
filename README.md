@@ -1,4 +1,4 @@
-# Nuxt 3 UI Starter
+# Nuxt 3 UI Pro Starter
 
 This project is a minimal starter template for building applications with [Nuxt 3](https://nuxt.com/) and styling them using [`@nuxt/ui`](https://ui.nuxt.com/), which is built on top of [Tailwind CSS](https://tailwindcss.com/).
 
